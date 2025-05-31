@@ -1,0 +1,91 @@
+section {
+  padding-top: 180px;
+  padding-bottom: 250px;
+}
+
+#navbar a:hover {
+  background-color: white;
+}
+/* hreo */
+
+.home-box .box p {
+  width: 500px;
+}
+
+.home-box .box img {
+  width: 400px;
+}
+
+@media (max-width: 992px) {
+  .home-box .box p {
+    font-size: 14px;
+    width: 300px;
+  }
+
+  .home-box .box img {
+    width: 300px;
+  }
+}
+@media (max-width: 768px) {
+  .home {
+    padding-top: 50px;
+  }
+
+  .home-box {
+    text-align: center;
+  }
+
+  .home-box .box p {
+    width: 100%;
+  }
+}
+
+.about-box img {
+  width: 400px;
+}
+
+@media (max-width: 475px) {
+  .about-box img {
+    width: 300px;
+  }
+}
+
+.footer {
+  margin-top: 100px;
+  padding-bottom: 20px;
+}
+
+#gambarig {
+  padding-left: 110px;
+  padding-top: 50px;
+}
+
+#gambarwa {
+  padding-left: 300px;
+  padding-top: 50px;
+  width: 400px;
+}
+
+#logopengalaman {
+  padding-left: 100px;
+}
+
+#fotosaya {
+  width: 300px;
+}
+
+.colprojects1:hover {
+  background-color: rgb(202, 168, 54);
+}
+
+.colprojects2:hover {
+  background-color: rgb(202, 168, 54);
+}
+
+.pengalamanprimaya:hover {
+  background-color: rgb(202, 168, 54);
+}
+
+.pengalamancis:hover {
+  background-color: rgb(202, 168, 54);
+}
