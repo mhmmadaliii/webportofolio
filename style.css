@@ -89,3 +89,7 @@ section {
 .pengalamancis:hover {
   background-color: rgb(202, 168, 54);
 }
+
+#divhome {
+  padding-bottom: 500px;
+}
